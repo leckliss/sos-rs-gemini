@@ -17,11 +17,11 @@ Facilidade e Rapidez: O objetivo principal é facilitar o processo de doação, 
 <br>
 *A principal funcionalidade consiste na integração de doações: Doe para organizações confiáveis que estão atuando no auxílio às vítimas das inundações, através de QR Codes, códigos Pix e links para vaquinhas online. Demais funcionalidades que estão sendo pensadas como por exemplo...*
 <br>
-Encontrar pessoas por reconhecimento de imagens e videos, facilitando as buscas por meio de IA que irão verificar no banco de imagens de pessoas que terão o contato de parentes que estão procurando por seu parente perdido. <br>
-Monitoramento em Tempo Real: Análise de imagens de satélite para identificar áreas inundadas, danos à infraestrutura e locais que precisam de resgate.
-Solicitação de Ajuda e Resgate: Envio de solicitações de ajuda, informando sua localização e necessidades, e recebimento de alertas personalizados com base em seu nível de risco. <br>
-Otimização de Recursos: Acesso a dados em tempo real sobre a disponibilidade de recursos como abrigos, alimentos, equipes de resgate e equipamentos, utilizando algoritmos de otimização para direcionar os recursos de forma eficiente. <br>
-<br>
+<b>Encontrar pessoas por reconhecimento de imagens e videos:</b> facilitando as buscas por meio de IA que irão verificar no banco de imagens de pessoas que terão o contato de parentes que estão procurando por seu parente perdido. <br><br>
+<b>Monitoramento em Tempo Real:</b> Análise de imagens de satélite para identificar áreas inundadas, danos à infraestrutura e locais que precisam de resgate.<br><br>
+<b>Solicitação de Ajuda e Resgate:</b> Envio de solicitações de ajuda, informando sua localização e necessidades, e recebimento de alertas personalizados com base em seu nível de risco. <br><br>
+<b>Otimização de Recursos:</b> Acesso a dados em tempo real sobre a disponibilidade de recursos como abrigos, alimentos, equipes de resgate e equipamentos, utilizando algoritmos de otimização para direcionar os recursos de forma eficiente. <br>
+<br><br>
 <h2>Como irá funcionar na prática: </h2>
 <br>
 Será uma organização para facilitar para qualquer pessoa doar para instituições e pessoas que realmente estão contribuindo e ajudando ao Rio Grande do Sul. Com apenas uma mensagem para o numero do bot, você poderá escolher entre diversas opções, dentre elas por exemplo, 1. Preciso de ajuda; 2. Doar; 3. Ultimas noticias; 4.Pontos de doações. Onde ao selecionar a opção 2 de doação por exemplo, aparecerá uma lista com os principais contatos que estão ajudando as pessoas no Rio Grande do Sul, como influencers e instituições. Ao selecionar sua escolha, facilmente irá aparecer o qr code do pix para doação e um pix copia e cola e a rede social da pessoa ou instituição escolhida para que você consiga ver se de fato a pessoa está ajudando. Com o principal objetivo de facilitar as doações.  Demais opções estão sendo pensadas, mas a funcionalidade principal será esta.
