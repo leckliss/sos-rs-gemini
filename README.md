@@ -1,5 +1,5 @@
 <h1> Assistente SOS Rio Grande do Sul </h1>
-Repositório do "Assistente SOS Rio Grande do Sul", para o desafio Imersão IA Alura + Google. Desenvolvido para auxiliar a população, equipes de resgate e órgãos governamentais durante desastres naturais no estado.
+Repositório do "Assistente SOS Rio Grande do Sul", para o desafio Imersão IA Alura + Google. Desenvolvido para auxiliar a população, doadores, equipes de resgate e órgãos governamentais durante desastres naturais no estado.
 
 <h2> Sobre o Projeto </h2>
 
