@@ -29,8 +29,9 @@ Será uma organização para facilitar para qualquer pessoa doar para instituiç
 <br>
 API Gemini: Empregamos essa poderosa ferramenta de reconhecimento de imagens para analisar imagens de satélite, identificar áreas afetadas e otimizar a resposta aos desastres.
 serão adicionadas...
-<br>
-Contato
+<br><br>
+
+<h2>Contato</h2>
 <br>
 Organizador: Erick Caique
 <br>
