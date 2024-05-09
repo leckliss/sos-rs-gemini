@@ -8,7 +8,9 @@ Este chatbot multifuncional para WhatsApp e Telegram oferece uma gama completa d
 <h2> Como Funciona: </h2>
 <br>
 Doações Simples e Seguras: Com apenas uma mensagem para o número do bot, você pode escolher a opção "Doar" e ter acesso a uma lista com os principais contatos que estão ajudando as pessoas no Rio Grande do Sul, incluindo influencers e instituições.
+<br>
 Transparência e Segurança: Ao selecionar sua escolha, você terá acesso ao QR Code do Pix para doação, Pix Copia e Cola e a rede social da pessoa ou instituição escolhida, permitindo verificar a veracidade da ação e realizar sua doação com segurança.
+<br>
 Facilidade e Rapidez: O objetivo principal é facilitar o processo de doação, tornando-o rápido, simples e acessível a todos.
 <br>
 <h2> Outras Funcionalidades: </h2>
