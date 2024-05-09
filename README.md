@@ -3,7 +3,7 @@ Repositório do "Assistente SOS Rio Grande do Sul", para o desafio Imersão IA A
 
 <h2> Sobre o Projeto </h2>
 
-O SOS Rio Grande do Sul é um chatbot multifuncional para WhatsApp e Telegram que oferece uma gama completa de funcionalidades para auxiliar durante desastres naturais:
+O Assistente SOS Rio Grande do Sul é um chatbot multifuncional para WhatsApp e Telegram que oferece uma gama completa de funcionalidades para auxiliar durante desastres naturais:
 
 A principal funcionalidade consiste na integração de doações: Doe para organizações confiáveis que estão atuando no auxílio às vítimas das inundações, através de QR Codes, códigos Pix e links para vaquinhas online.
 
